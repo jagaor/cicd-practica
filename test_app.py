@@ -5,8 +5,3 @@ def test_suma():
 
 def test_resta():
     assert resta(5, 1) == 4
-```
-
-**`requirements.txt`**
-```
-pytest
